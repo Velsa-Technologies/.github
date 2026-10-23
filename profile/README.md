@@ -6,4 +6,4 @@ We're an early-stage team putting LLMs to work on real business processes, where
 
 If you'd like to build AI that real companies rely on, we'd like to hear from you.
 
-🌐 [velsa.de](https://www.velsa.de) · 📫 info@velsa.de
+[velsa.de](https://www.velsa.de) · konstantin.haefner@velsa.de
